@@ -1,0 +1,15 @@
+Package: tigervnc
+Version: 1.10.1-40
+Architecture: arm
+Maintainer: @termux
+Installed-Size: 2408
+Depends: libandroid-shmem, libc++, libgnutls, libjpeg-turbo, libpixman, libx11, libxau, libxdamage, libxdmcp, libxext, libxfixes, libxfont2, opengl, openssl, perl, xkeyboard-config, xorg-xauth, xorg-xkbcomp, zlib
+Suggests: aterm, xorg-twm
+Filename: pool/main/tigervnc_1.10.1-40_arm.deb
+Size: 868696
+MD5sum: 140f87b0bac75c29ff08f6d333cf82b3
+SHA1: ecc8a681c5810cc679b3f3d5044527e4faa0a307
+SHA256: 3bdfdd22c14120f644f0a8721d54902e6db89605a4e212962e0b36e6138426d9
+Homepage: https://tigervnc.org/
+Description: Suite of VNC servers. Based on the VNC 4 branch of TightVNC.
+

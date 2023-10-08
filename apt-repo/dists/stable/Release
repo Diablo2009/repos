@@ -1,0 +1,18 @@
+Origin: Taskforce Termux Repository
+Label: tftermux
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: arm64 arm7 armhf arm
+Components: main
+Description: A software repository
+Date: Sun, 08 Oct 2023 23:40:33 +0000
+MD5Sum:
+ 3702bc83be1ca36e0b05baa5311b1104 663 main/binary-arm/Packages
+ ebd622c2c449c28b098e31661b1106de 462 main/binary-arm/Packages.gz
+SHA1:
+ 6a071ca31858bbe8d6e90cde39ecd5b4c096d35f 663 main/binary-arm/Packages
+ c4a67400f7d0ae64c32b00a91f8448a1516fd441 462 main/binary-arm/Packages.gz
+SHA256:
+ eaf93f2cb0738188635e83e6f222671e63a00bb5b44843c208834786670e2bfa 663 main/binary-arm/Packages
+ 5b06fc972912cd10b0afc3a63bb5f2e9ab1550c300ceb340078a25ac19a9fe7f 462 main/binary-arm/Packages.gz
